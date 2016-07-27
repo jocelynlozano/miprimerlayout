@@ -1,0 +1,185 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+html{
+	margin: 0% 24%;
+}
+
+h3{
+	font-size: 15px;
+}
+
+header nav {
+	overflow: hidden;
+}
+header nav ul{
+	list-style: none;
+}
+header nav ul li{
+	float:left;
+}
+
+header nav ul li a{
+	padding: 10px 20px;
+	display: block;
+	text-decoration: none;
+}
+
+.main .articulos{
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+.centrarlogo{
+	text-align: center;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
+
+p{
+
+}
+.main .articulos articulos{
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+.primero{
+	display: inline;
+}
+
+.segundo{
+	display: inline;
+}
+
+.tercero{
+	display: inline;
+}
+
+.cuarto{
+	display: inline;
+}
+
+.borde{
+	 width:130px;
+	 height: 3px;
+	 margin-top:5px;
+	 margin-bottom: 30px; 
+	 background-color: black;
+}
+
+.filauno-1{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+
+.esquina1{
+	position: relative;
+    left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+
+.filauno-2{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+
+.esquina2{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+
+.filauno-3{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+
+.esquina3{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+
+.filados-1{
+	float: left;
+	display: inline;
+	clear:both;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+
+.esquina4{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+
+.filados-2{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+
+.esquina5{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+
+.filados-3{
+	float: left;
+	display: inline;
+	margin-right: 2%;
+	-webkit-filter: brightness(50%);
+    filter: brightness(50%);
+}
+
+.esquina6{
+	position: relative;
+	left: 95px;
+    bottom: 25px;
+   	font-size: 14px;
+   	color: #FFFFFF;
+}
+a{
+	font-family: verdana;
+	font-size: 20px;
+	color: black;
+	float: left;
+	margin:20px 10px;
+	border-right: 1px black ;
+}
+
+.simplenav {
+	    border: 1px solid black;
+}
